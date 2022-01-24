@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     // return view('welcome');
-    return 'Ryo';
+    return 'Ryochan';
 })->name('home.index');
 
 
